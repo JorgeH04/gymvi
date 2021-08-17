@@ -1,4 +1,10 @@
 /* Base */
+
+.intro-section {
+  background: url("https://res.cloudinary.com/dsk4fft6r/image/upload/v1629139141/hero-bg_yuyxac.jpg");
+ 
+}
+
 body {
   line-height: 1.7;
   color: gray;
